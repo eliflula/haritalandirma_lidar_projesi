@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lidar", "lidar\lidar.csproj", "{D7A195BE-284C-43E5-A6FD-C1EEC6DE0A5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A195BE-284C-43E5-A6FD-C1EEC6DE0A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A195BE-284C-43E5-A6FD-C1EEC6DE0A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A195BE-284C-43E5-A6FD-C1EEC6DE0A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A195BE-284C-43E5-A6FD-C1EEC6DE0A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3454556-C379-47EC-8557-37C1B3F675D8}
+	EndGlobalSection
+EndGlobal
